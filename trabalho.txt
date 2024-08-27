@@ -1,0 +1,6 @@
+welcome
+
+esse é um trabalho de classe em grupo
+
+estamos continuando a utilizar o git
+
